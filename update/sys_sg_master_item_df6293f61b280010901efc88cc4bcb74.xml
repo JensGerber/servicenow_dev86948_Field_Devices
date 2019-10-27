@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>core_company</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Company Form Screen">976293f61b280010901efc88cc4bcb72</embedded_screen>
+        <item_view display_value="Company List Screen Item View">9b6293f61b280010901efc88cc4bcb70</item_view>
+        <name>Company master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 11:52:30</sys_created_on>
+        <sys_id>df6293f61b280010901efc88cc4bcb74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company master_item</sys_name>
+        <sys_package display_value="Field Device Mobile" source="x_417837_fdm">cdac43321b280010901efc88cc4bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Device Mobile">cdac43321b280010901efc88cc4bcbab</sys_scope>
+        <sys_update_name>sys_sg_master_item_df6293f61b280010901efc88cc4bcb74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 11:52:30</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

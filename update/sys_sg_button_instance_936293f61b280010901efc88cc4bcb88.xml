@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Company)">536293f61b280010901efc88cc4bcb7f</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Company)</name>
+        <order/>
+        <parent>5b6293f61b280010901efc88cc4bcb71</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 11:52:30</sys_created_on>
+        <sys_id>936293f61b280010901efc88cc4bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Company)</sys_name>
+        <sys_package display_value="Field Device Mobile" source="x_417837_fdm">cdac43321b280010901efc88cc4bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Device Mobile">cdac43321b280010901efc88cc4bcbab</sys_scope>
+        <sys_update_name>sys_sg_button_instance_936293f61b280010901efc88cc4bcb88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 11:52:30</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=936293f61b280010901efc88cc4bcb88"/>
+</record_update>
